@@ -1,0 +1,8 @@
+export const webarahmat = "https://arrahmat-bjn.sch.id/"
+export const lokasi = "https://www.google.com/maps/place/SMP-SMA+Plus+Ar+Rahmat"
+export const igoppra = "https://www.instagram.com/oppra_arrahmat/"
+export const igarmaso = "https://www.instagram.com/armaso_arrahmat/"
+export const igliga = "https://www.instagram.com/arrahmat_league/"
+export const igartimes = "https://www.instagram.com/arttimes_/"
+export const ytarrahmat = "https://www.youtube.com/@ArRahmatOfficial"
+export const webarmaso = "https://armaso.arrahmat-bjn.sch.id/"

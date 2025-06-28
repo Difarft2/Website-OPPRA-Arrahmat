@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oppra.arrahmat-bjn.sch.id/sitemap.xml

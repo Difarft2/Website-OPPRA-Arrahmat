@@ -1,0 +1,14 @@
+const Hariguruartikel=()=>{
+    return(
+        <div>
+            <p className="article-content">Senin pagi, Tanggal 25 November 2024 Pondok Pesantren Modern Ar-Rahmat Bojonegoro melaksanakan upacara bendera dalam rangka memperingati Hari Guru Nasional yang dilaksanakan di lapangan tengah pondok. Upacara tersebut diikuti oleh seluruh siswa, dewan guru, serta staf sekolah SMP dan SMA Plus Ar-Rahmat.</p>
+            <p className="article-content">Upacara dimulai pada pukul 07.00 WIB dan diawali dengan pengibaran bendera merah putih yang diiringi oleh lagu kebangsaan “Indonesia Raya”. Seluruh peserta berdiri tegak dengan penuh rasa penghormatan mencerminkan sikap nasionalisme terhadap tanah air. Setelah itu, terdapat pembacaan teks Pancasila, Pembukaan Undang-Undang Dasar 1945, dan amanat dari pembina upacara. Para siswa dan dewan guru juga diajak untuk menyanyikan lagu hymne guru yang dipimpin oleh dirigen dari grup paduan suara.</p>
+            <p className="article-content">Setelah pembina upacara meninggalkan lapangan upacara, pemimpin upacara mulai melakukan akting dari drama yang sudah disiapkan beberapa hari sebelum upacara. Drama tersebut bertema tentang pertikaian antar generasi yang diperankan oleh kelas 11 dan kelas 12 SMA. </p>
+            <p className="article-content">Setelah drama dimulai dan situasi upacara menjadi kacau, pemimpin upacara tersebut diminta untuk maju dan melakukan klarifikasi atas kekacauan yang ditimbulkan. Pada akhir kalimat klarifikasi, pemimpin upacara tersebut berseru mengucapkan selamat hari guru yang diikuti oleh semua siswa baik SMP maupun SMA. Para guru terkejut atas drama kejutan yang sudah disiapkan dan suasana yang tadinya kacau berubah menjadi meriah. Suasana waktu itu berubah menjadi haru saat salah satu murid SMP menyanyikan lagu dengan judul “Terima Kasih Guruku”.</p>
+            <p className="article-content">Kemudian acara dilanjutkan dengan penandatanganan bingkai yang berisi kata-kata yang telah dirancang oleh para siswa. Bingkai tersebut ditanda tangani oleh kepala sekolah SMP, kepala sekolah SMA, ketua OPPRA 2024-2025, serta perwakilan dari seluruh siswa SMP SMA Plus Ar-Rahmat. Setelah sesi penandatanganan selesai, kepala sekolah SMP, dan SMA diminta untuk memotong tumpeng yang telah disiapkan oleh siswa kelas 12.</p>
+            <p className="article-content">Acara  ditutup dengan sesi foto bersama oleh seluruh dewan guru, dan siswa SMP dan SMA. Para guru sangat senang atas acara dan kejutan yang dibuat oleh para siswa. Acara ini diselenggarakan guna mensyukuri jasa yang telah para guru lakukan untuk mengajari dan mendidik para siswa. Dan dengan diselenggarakannya acara ini, diharapkan para siswa lebih menghargai jasa para guru dan termotivasi untuk semakin giat belajar dan berprestasi.</p>
+        </div>
+    )
+}
+
+export default Hariguruartikel

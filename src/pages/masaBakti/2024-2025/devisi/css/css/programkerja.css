@@ -1,0 +1,33 @@
+.programkerja-section {
+  background-color: #505050;
+  padding: 60px 0;
+}
+
+.card {
+  background-color: #ffffff; 
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+.title-programkerja {
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+.fade-slide {
+  animation: fadeSlideUp 0.7s ease both;
+}
+
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,45 @@
+/* Section Title */
+.de-section-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  background-color: #ffd18e;
+  text-align: center;
+}
+
+.de-title-text {
+  font-family: "Poppins", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 0;
+}
+
+.de-line-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.de-line {
+  width: 150px;
+  height: 3px;
+  background-color: #fff;
+}
+
+.de-line-circle {
+  width: 10px;
+  height: 10px;
+  background-color: #fff;
+  border-radius: 50%;
+  margin: 0 4px;
+}
+
+.content-de {
+  background-color: #505050;
+}

@@ -1,0 +1,170 @@
+.bg-pr {
+  background-image: url("../../assets/img/full.svg");
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 0px;
+}
+
+.container-fluid {
+  padding: 50px 20px;
+  height: 100%;
+  width: 100%;
+  margin-top: -60px;
+}
+
+.judulgede {
+  color: rgb(255, 255, 255);
+  background-color: #ffd18e;
+  text-align: center;
+  padding: 90px 0;
+}
+
+.judulgede h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.oppra,
+.pondok {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  width: 85vw;
+  height: auto;
+  margin: 40px auto;
+  padding: 20px;
+  background: rgba(59, 53, 53, 0.6);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(59, 53, 53, 0.6);
+}
+
+.logo-oppra,
+.logo-pondok {
+  flex: 0 0 auto;
+  width: 250px;
+  height: auto;
+}
+
+.tulisan-oppra,
+.tulisan-pondok {
+  flex: 1;
+  text-align: left;
+  color: #ffffff;
+}
+
+.tulisan-oppra h2,
+.tulisan-pondok h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.tulisan-oppra p,
+.tulisan-pondok p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.button-webpondok {
+  margin-top: 5vh;
+}
+
+.vm-section-title {
+  padding-top: 130px;
+  padding-bottom: 70px;
+}
+
+.pro-section-title {
+  padding-top: 130px;
+  padding-bottom: 70px;
+  background-color: #ffd18e;
+}
+
+.vm-title-text {
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 0;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.vm-line-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3px;
+  position: relative;
+}
+
+.vm-line {
+  width: 240px;
+  height: 3px;
+  background-color: #fff;
+  position: relative;
+}
+
+.vm-line-circle {
+  width: 10px;
+  height: 10px;
+  background-color: #fff;
+  border-radius: 50%;
+  margin: 0 4px;
+}
+
+@media (max-width: 992px) {
+  .oppra,
+  .pondok {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .logo-oppra,
+  .logo-pondok {
+    width: 200px;
+    height: auto;
+  }
+
+  .tulisan-oppra,
+  .tulisan-pondok {
+    text-align: center;
+  }
+}
+
+@keyframes slideInFromLeft {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInFromRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animated-left {
+  animation: slideInFromLeft 1s ease-out forwards;
+}
+
+.animated-right {
+  animation: slideInFromRight 1s ease-out forwards;
+}

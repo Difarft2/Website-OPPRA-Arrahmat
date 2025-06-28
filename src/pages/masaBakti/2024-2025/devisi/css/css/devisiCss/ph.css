@@ -1,0 +1,130 @@
+.ph {
+  background-color: #505050;
+}
+
+.title-ph {
+  font-size: 34px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+
+.title-ph-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.setetaris1,
+.setetaris2,
+.bendahara1,
+.bendahara2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  position: relative;
+}
+
+.seketaris1-img,
+.seketaris2-img,
+.bendahara1-img,
+.bendahara2-img {
+  width: 230px;
+  height: auto;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+}
+
+.seketaris1-img:hover,
+.seketaris2-img:hover,
+.bendahara1-img:hover,
+.bendahara2-img:hover {
+  transform: scale(1.05);
+}
+
+.ph-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 20px;
+}
+
+@media (max-width: 768px) {
+  .seketaris1-img,
+  .seketaris2-img,
+  .bendahara1-img,
+  .bendahara2-img {
+    width: 85%;
+    margin: 0 auto;
+    align-items: center;
+  }
+
+  .seketaris1,
+  .seketaris2 {
+    margin-left: 32px;
+  }
+
+  .kanan,
+  .kiri {
+    display: none;
+  }
+}
+
+.ph-container .seketaris1,
+.ph-container .seketaris2,
+.ph-container .bendahara1,
+.ph-container .bendahara2 {
+  opacity: 0;
+  transform: translateX(50px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.ph-container .seketaris1,
+.ph-container .seketaris2 {
+  transform: translateX(-50px);
+}
+
+.ph-container .seketaris1.visible,
+.ph-container .seketaris2.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.ph-container .bendahara1,
+.ph-container .bendahara2 {
+  transform: translateX(50px);
+}
+
+.ph-container .bendahara1.visible,
+.ph-container .bendahara2.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.ph-container .seketaris1 {
+  transition-delay: 0.3s;
+}
+
+.ph-container .seketaris2 {
+  transition-delay: 0.5s;
+}
+
+.ph-container .bendahara1 {
+  transition-delay: 0.7s;
+}
+
+.ph-container .bendahara2 {
+  transition-delay: 0.9s;
+}
+
+@media (max-width: 768px) {
+  .animate-from-left,
+  .animate-from-right {
+    transform: translateY(50px);
+  }
+}
