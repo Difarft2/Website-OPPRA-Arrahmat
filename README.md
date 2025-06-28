@@ -1,12 +1,45 @@
-# React + Vite
+# 🌐 Website Resmi OPPRA - Arrahmat Bojonegoro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Selamat datang di repository resmi website organisasi santri **OPPRA (Organisasi Pelajar Pondok Pesantren Arrahmat)**.  
+Website ini dibangun sebagai media informasi, publikasi program kerja, serta dokumentasi kegiatan organisasi santri di Pondok Pesantren Arrahmat, Bojonegoro.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Tentang Website
 
-## Expanding the ESLint configuration
+Website ini berfungsi untuk:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Menyampaikan informasi kegiatan santri
+- Menampilkan dokumentasi program kerja setiap divisi
+- Memberikan akses digital yang modern untuk organisasi pelajar
+- Menjadi portofolio publikasi resmi OPPRA
+
+---
+
+## 🚧 Status
+
+> 🚀 Website ini sedang dalam tahap pengembangan & pembaruan konten.  
+Untuk versi live dapat diakses di:
+
+🔗 **[https://oppra.arrahmat-bjn.sch.id](https://oppra.arrahmat-bjn.sch.id)**
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Frontend:** Vite + React.js
+- **Styling:** Bootstrap 5, SCSS, Framer Motion
+- **Deployment:**  Hostinger CPanel 
+
+---
+
+## 👥 Kontributor Utama
+
+- **Difarft (Owner / Developer Utama)**  
+  📧 [mailoffice@difarft.com](mailto:mailoffice@difarft.com)  
+  📲 [t.me/Difarft](https://t.me/Difarft)
+
+---
+
+## 🔐 Lisensi
+
