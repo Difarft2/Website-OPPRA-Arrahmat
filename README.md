@@ -14,14 +14,6 @@ Website ini berfungsi untuk:
 - Memberikan akses digital yang modern untuk organisasi pelajar
 - Menjadi portofolio publikasi resmi OPPRA
 
----
-
-## 🚧 Status
-
-> 🚀 Website ini sedang dalam tahap pengembangan & pembaruan konten.  
-Untuk versi live dapat diakses di:
-
-🔗 **[https://oppra.arrahmat-bjn.sch.id](https://oppra.arrahmat-bjn.sch.id)**
 
 ---
 
