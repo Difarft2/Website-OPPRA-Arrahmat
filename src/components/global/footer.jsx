@@ -182,12 +182,13 @@ const Footer = () => {
 
         {/* Copyright Section */}
         <div className="footer-copyright">
-          <p>
-            &copy; {new Date().getFullYear()} OPPRA{" "}    
-            <a href="https://arrahmat-bjn.sch.id/" target="_blank" rel="noopener noreferrer" className="">
-                 Arrahmat
-            </a>. Dikembangkan oleh Divisi Multimedia.
-          </p>
+<p>
+  &copy; {new Date().getFullYear()} OPPRA Arrahmat. 
+  All Rights Reserved license.
+  <br />
+  <small className="d-block d-sm-inline">Dikembangkan oleh Divisi Multimedia</small>
+</p>
+
         </div>
       </div>
     </>
