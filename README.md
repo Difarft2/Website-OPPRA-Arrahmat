@@ -33,5 +33,10 @@ Website ini berfungsi untuk:
 
 ---
 
-## 🔐 Lisensi
+## 🔐 License
+
+This project is protected under an **All Rights Reserved** license.  
+You may view the source code, but you are **not permitted to copy, modify, or use it** without written permission from the author.
+
+📩 Contact: [mailoffice@difarft.com](mailto:mailoffice@difarft.com)
 
