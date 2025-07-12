@@ -14,14 +14,28 @@ Website ini berfungsi untuk:
 - Memberikan akses digital yang modern untuk organisasi pelajar
 - Menjadi portofolio publikasi resmi OPPRA
 
-
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 
 - **Frontend:** Vite + React.js
-- **Styling:** Bootstrap 5, SCSS, Framer Motion
-- **Deployment:**  Hostinger CPanel 
+- **Styling:** Bootstrap 5 dan Framer Motion
+- **Deployment:** Hostinger CP panel
+
+---
+
+## 🧾 Proyek dalam Portofolio
+
+**🗂️ Proyek:** Website Resmi OPPRA - Arrahmat Bojonegoro  
+- 📍 **Klien:** OPPRA (Organisasi Pelajar Pondok Pesantren Arrahmat)  
+- 📅 **Tahun:** 2025  
+- 🧑‍💻 **Peran:** Frontend Developer (desain antarmuka & deployment ke hosting)  
+- 🔗 **Link Website:** [oppra.arrahmat-bjn.sch.id](https://oppra.arrahmat-bjn.sch.id/)  
+- 📝 **Deskripsi:**  
+  Website organisasi pelajar berbasis React yang dikembangkan untuk menyampaikan informasi kegiatan santri, mendokumentasikan program kerja setiap divisi, serta menjadi media publikasi resmi OPPRA secara digital dan modern.
+
+> _Catatan: Proyek ini dibuat secara eksklusif untuk OPPRA. Hak cipta dan kepemilikan kode dipegang oleh pengembang, dengan izin penggunaan terbatas hanya untuk tim internal organisasi._
+
 
 ---
 
@@ -39,4 +53,3 @@ This project is protected under an **All Rights Reserved** license.
 You may view the source code, but you are **not permitted to copy, modify, or use it** without written permission from the author.
 
 📩 Contact: [mailoffice@difarft.com](mailto:mailoffice@difarft.com)
-
