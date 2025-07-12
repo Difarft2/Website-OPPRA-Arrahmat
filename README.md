@@ -20,7 +20,7 @@ Website ini berfungsi untuk:
 ## 🛠️ Teknologi yang Digunakan
 
 - **Frontend:** Vite + React.js
-- **Styling:** Bootstrap 5, SCSS, Framer Motion
+- **Styling:** Bootstrap 5 dan Framer Motion
 - **Deployment:**  Hostinger CPanel 
 
 ---
