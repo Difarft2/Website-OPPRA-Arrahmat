@@ -34,7 +34,7 @@ Website ini berfungsi untuk:
 - 📝 **Deskripsi:**  
   Website organisasi pelajar berbasis React yang dikembangkan untuk menyampaikan informasi kegiatan santri, mendokumentasikan program kerja setiap divisi, serta menjadi media publikasi resmi OPPRA secara digital dan modern.
 
-> _Catatan: Proyek ini dibuat secara eksklusif untuk OPPRA. Hak cipta dan kepemilikan kode dipegang oleh pengembang, dengan izin penggunaan terbatas hanya untuk tim internal organisasi._
+> _Catatan: Proyek ini dibuat secara eksklusif untuk OPPRA. Hak cipta dan kepemilikan kode dipegang oleh pengembang, dengan izin penggunaan terbatas hanya untuk tim internal organisasi Devisi Multimedia._
 
 
 ---
@@ -53,3 +53,7 @@ This project is protected under an **All Rights Reserved** license.
 You may view the source code, but you are **not permitted to copy, modify, or use it** without written permission from the author.
 
 📩 Contact: [mailoffice@difarft.com](mailto:mailoffice@difarft.com)
+
+---
+
+> 📌 Dibuat dan dikembangkan untuk Website Official oleh OPPRA Arrahmat ~ Devisi Multimedia.
